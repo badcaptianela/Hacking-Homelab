@@ -26,7 +26,7 @@ I am Using My laptop for this LAB
 
 ## VM Details
 
-- [ATTACK Machine (Kali)](docs/kali-vm.md)
+- [Kali (ATTACK MAchine)](docs/kali-vm.md)
 - [Metasploitable](docs/metasploitable-vm.md)
 - [Windows Server 2022 (Active Directory)](docs/windows-server-2022-vm.md)
 - [Windows 10](docs/windows-10-vm.md)
